@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Tools for Humanity!
 
-You can use the [editor on GitHub](https://github.com/adamzolyak/tools-for-humanity-marketing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Mission
+To help humans to be well and strong mentally, physically, and spiritually (philosophically) so that they can be whoever they want to be and serve others in doing the same!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Vision
+We believe many tools, processes, and systems are not fundamentally humane; that is, they do not acknowledge and honor the fundamental wholeness and uniqueness of each person and do not support learning, growing, improving, and connecting with other people in healthy ways.  Tools, processes, systems should be humane - fundamentally supporting the needs of humans and putting humans before other efficiencies and outcomes.
 
-### Markdown
+We seek to create awareness of the current issues, shared vocabulary and mental models for understanding humane tools, processes, and systems, and creating tools that help humans to have more humanity and to support the humanity of other humans.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Values
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamzolyak/tools-for-humanity-marketing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* We believe each person is unique.  We seek to understand and honor the uniqueness of each person.
+* We believe people are naturally creative, resourceful, and whole.  We acknowledge this about each person, and seek to support each person from this point of view.
+* We believe humans have an innate need to learn, grow, and find fulfillment through doing and struggle.  The struggle is good but it can be hard.  We seek to support people in moving forward and struggling well along the way.
+* We believe people have an innate need for connection with and to serve other people.  We seek to support healthy connections and service between people.
+* We believe all people have the right to humanity.  Therefore, we offer our tools for free and rely on the benevolence of people to support this effort and community to support everyone having access to these tools.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact info at toolsforhuamity.io for questions, feedback, or to partner with us!
