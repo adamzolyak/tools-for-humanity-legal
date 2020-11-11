@@ -18,6 +18,10 @@ We seek to create awareness of the current issues, shared vocabulary and mental 
 - We believe people have an innate need for connection with and to serve other people. We seek to support healthy connections and service between people.
 - We believe all people have the right to humanity. Therefore, we offer our tools for free and rely on the benevolence of people to support this effort and community to support everyone having access to these tools.
 
+## Projects
+
+Coming soon...
+
 ### Support or Contact
 
 Contact info at toolsforhuamity.io for questions, feedback, or to partner with us!
