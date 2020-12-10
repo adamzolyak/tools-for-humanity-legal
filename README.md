@@ -1,4 +1,4 @@
-Welcome to Tools for Humanity
+# Welcome to Tools for Humanity
 
 ## Mission
 
