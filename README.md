@@ -1,8 +1,3 @@
----
-layout: page
-title: 'Welcome to Tools for Humanity'
----
-
 # Welcome to Tools for Humanity!
 
 ## Mission
