@@ -24,4 +24,4 @@ Coming soon...
 
 ### Support or Contact
 
-Contact info at toolsforhuamity.io for questions, feedback, or to partner with us.
+Contact info at toolsforhuamity.io for questions, feedback, or to partner with us!
