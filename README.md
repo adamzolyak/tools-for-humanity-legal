@@ -1,7 +1,4 @@
----
-layout: page
-title: 'Welcome to Tools for Humanity'
----
+Welcome to Tools for Humanity
 
 ## Mission
 
@@ -27,4 +24,4 @@ Coming soon...
 
 ### Support or Contact
 
-Contact info at toolsforhuamity.io for questions, feedback, or to partner with us.
+Contact info at toolsforhuamity.io for questions, feedback, or to partner with us!
