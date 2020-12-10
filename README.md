@@ -1,5 +1,3 @@
-# Welcome to Tools for Humanity!
-
 ## Mission
 
 To help people to be well and strong mentally, physically, and spiritually (philosophically) so that they can be whoever they want to be and serve others in doing the same!
@@ -24,4 +22,4 @@ Coming soon...
 
 ### Support or Contact
 
-Contact info at toolsforhuamity.io for questions, feedback, or to partner with us! 3
+Contact info at toolsforhuamity.io for questions, feedback, or to partner with us!
