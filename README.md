@@ -47,5 +47,3 @@ Exploring alternative relationships with time. [Demo](https://youtu.be/RH9pwswOX
 Contact info at toolsforhuamity.io for questions, feedback, or to join / partner with us.
 
 Copyright 2020 Tools For Humanity, LLC
-
-.
