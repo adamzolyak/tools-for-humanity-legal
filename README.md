@@ -2,7 +2,7 @@
 
 ## Mission
 
-To help people to be well and strong mentally, physically, and spiritually (philosophically) so that they can be whoever they want to be and serve others in doing the same!
+To help people to have the clarity, energy, and options they need to be live authentic fulfilling lives - having clarify of self, meaningful work, and meaningful community.
 
 ## Vision
 
