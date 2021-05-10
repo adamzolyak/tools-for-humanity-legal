@@ -20,11 +20,11 @@ We seek to create awareness of the current issues, a shared vocabulary and menta
 
 ## Projects
 
-### ✨ Constellations App
+### ✨ Onward.ly App
 
-The Constellations App helps you to better understand yourself and your wisdom to live an authentic life of joy and fulfillment with ease.
+The Onward.ly App is the guided journaling app for a life of clarity, action, and fulfillment - at home, at work, and everywhere in between.
 
-Learn more at [https://constellationsapp.com/](https://constellationsapp.com/).
+Learn more at [https://onward.ly](https://onward.ly).
 
 ### 📝 And Then Club
 
@@ -46,4 +46,4 @@ Exploring alternative relationships with time. [Demo](https://youtu.be/RH9pwswOX
 
 Contact info at toolsforhuamity.io for questions, feedback, or to join / partner with us.
 
-Copyright 2020 Tools For Humanity, LLC
+Copyright 2021 Tools For Humanity, LLC
